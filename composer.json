@@ -1,8 +1,8 @@
 {
-    "name": "portphp/steps",
+    "name": "evosys21/portphp-steps",
     "description": "Step aggregator for Port",
     "license": "MIT",
-    "homepage": "https://github.com/portphp",
+    "homepage": "https://github.com/evosys21/portphp-portphp",
     "authors": [
         {
             "name": "David de Boer",
@@ -13,13 +13,17 @@
             "email": "markus.bachmann@bachi.biz"
         },
         {
+            "name": "Andrei Bintintan",
+            "email": "andy@interpid.eu"
+        },
+        {
             "name": "Community contributors",
-            "homepage": "https://github.com/portphp/boilerplate/graphs/contributors"
+            "homepage": "https://github.com/evosys21/portphp-portphp/boilerplate/graphs/contributors"
         }
     ],
     "support": {
-        "issues": "https://github.com/portphp/portphp/issues",
-        "source": "https://github.com/portphp/boilerplate",
+        "issues": "https://github.com/evosys21/portphp-portphp/issues",
+        "source": "https://github.com/evosys21/portphp-portphp/boilerplate",
         "docs": "https://portphp.readthedocs.org"
     },
     "require": {
